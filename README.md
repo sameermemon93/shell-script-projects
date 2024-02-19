@@ -17,6 +17,6 @@ Now it will ask to enter the Access Key ID, Secret Access Key, default region, a
 
 5. Now jump back to step 4
 
-Enter your access key id and secret access key also select yhe default region which you want and default output format as json.
+Enter your access key id and secret access key also select the default region which you want and default output format as json.
 
 Congratulations! You've successfully installed and configured AWS CLI on your Ubuntu machine. With this powerful tool at your disposal, you're now equipped to manage your AWS resources efficiently, automate tasks, and streamline your cloud operations.
